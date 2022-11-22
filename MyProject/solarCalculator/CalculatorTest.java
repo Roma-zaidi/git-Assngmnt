@@ -20,7 +20,7 @@ public class CalculatorTest {
 		assertEquals(expected, sum);
 		
 		}
-//		fail("Not yet implemented");
+
 	}
 	
 	@Test
